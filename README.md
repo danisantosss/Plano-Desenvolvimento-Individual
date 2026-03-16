@@ -35,3 +35,9 @@ Por fim, desejo desenvolver maior familiaridade com algoritmos de grafos. Durant
 Para garantir uma evolução durante o semestre, pretendo manter uma rotina semanal de estudo dedicada a disciplina. Minha ideia é reservar alguns momentos específicos da semana em que a aula acabe mais cedo para revisar o conteúdo, estudar conceitos e resolver exercícios.
 
 Normalmente pretendo estudar duas ou três vezes por semana, dedicando cerca de uma hora em cada sessão. Em alguns momentos o foco será revisar a teoria e compreender melhor os conceitos apresentados em aula. Em outros momentos a prioridade será resolver exercícios. Também pretendo reservar um período ocasional para revisar conteúdos anteriores e reforçar pontos que ainda apresento dificuldade.
+
+### 5. Plano de uso de IA
+
+Pretendo utilizar ferramentas de inteligência artificial como apoio durante o processo de aprendizagem, principalmente para esclarecer dúvidas, obter explicações alternativas de conceitos mais complexos e revisar implementações de algoritmos. A IA também pode ajudar sugerindo exemplos adicionais ou formas diferentes de compreender conteúdos.
+
+No entanto, pretendo utilizá-la apenas como ferramenta de apoio e não como substituta do processo de estudo. Sempre que possível, vou tentar resolver os exercícios e problemas por conta própria antes de buscar ajuda. Quando utilizar IA, a intenção será compreender a solução e não apenas reproduzi-la.
